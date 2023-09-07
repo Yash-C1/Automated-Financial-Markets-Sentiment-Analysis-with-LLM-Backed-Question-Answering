@@ -4,4 +4,4 @@ Financial news plays a crucial role in making informed investment decisions. Thi
 
 The pipeline comprises several steps, including data scraping, text processing, summarization, sentiment analysis, and exporting results to a CSV file.
 
-![Financial-sentiments](https://github.com/Yash-C1/SentimentAI-Analyzing-financial-markets-automatically/blob/main/financial_sentiment2.jpg)
+<img src="financial_sentiment2.jpg" width="128"/>
