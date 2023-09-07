@@ -4,4 +4,4 @@ Financial news plays a crucial role in making informed investment decisions. Thi
 
 The pipeline comprises several steps, including data scraping, text processing, summarization, sentiment analysis, and exporting results to a CSV file.
 
-<img src="financial_sentiment.jpg" width="600" height="400" align="center"/>
+<img src="financial_sentiment.jpg" width="900" height="400" align="center"/>
