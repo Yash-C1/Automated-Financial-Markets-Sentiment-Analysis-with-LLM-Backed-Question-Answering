@@ -1,4 +1,4 @@
-# SentimentAI-Analyzing-financial-markets-automatically
+# Automated-Financial-Markets-Sentiment-Analysis-with-LLM-Backed-Question-Answering
 
 Financial news plays a crucial role in making informed investment decisions. This pipeline automates the process of collecting, summarizing, and analyzing sentiment in financial news articles related to specific stocks and cryptocurrencies. It can be used to stay updated on the latest news and gauge market sentiment.
 
